@@ -1,3 +1,4 @@
+# Hacker News
 Hacker News is a website started by Y Combinator, where user-submitted stories are voted and commented upon which is similiar to reddit. 
 
 This platform is most popular within the techonlogy and startup space.
